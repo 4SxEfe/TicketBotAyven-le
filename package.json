@@ -1,0 +1,33 @@
+{
+  "name": "safecode",
+  "version": "0.0.3",
+  "description": "ayventicket",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "avatar.js": "^0.0.1",
+    "axios": "^1.4.0",
+    "discord.js": "^13.5.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "moment-timezone": "^0.5.43",
+    "mongoose": "^6.1.4",
+    "quick.db": "^9.1.6"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
